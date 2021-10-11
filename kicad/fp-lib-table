@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TE-5499786-9)(type KiCad)(uri ${KICAD_USER_LIBRARY}/5499786-9)(options "")(descr ""))
+)

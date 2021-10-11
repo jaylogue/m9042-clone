@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TE-5499786-9)(type Legacy)(uri ${KICAD_USER_LIBRARY}/5499786-9/5499786-9.lib)(options "")(descr ""))
+  (lib (name DEC-berg)(type Legacy)(uri ${KICAD_USER_LIBRARY}/DEC-berg.lib)(options "")(descr ""))
+)
